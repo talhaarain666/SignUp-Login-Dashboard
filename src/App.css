@@ -1,0 +1,11 @@
+.mzerop {
+padding: 0%;
+margin: 0%;
+}
+.li-Icon :only-child{
+    color: #1a90ff;
+}
+.text-Link {
+    color: inherit;
+    text-decoration: inherit;
+}
